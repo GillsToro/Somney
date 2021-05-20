@@ -1,7 +1,7 @@
 # Somney
 
 Will be working on Somney for a while and adding a bunch of stuff like story features, very low demanding program, just run it in the backround or whatever.
-This is only a test build so dont expect much except for a few tweaks and stuff like that.
+This is only a test build so dont expect much except for a few tweaks and stuff like that. (Somney is made with C#)
 Also, the program files got wiped so I have to start it again but it takes like 10 minutes.
 
 Current Version : 1.0.0 (Update 0)
